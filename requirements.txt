@@ -1,0 +1,7 @@
+krakenex
+pykrakenapi
+pandas
+numpy
+plotly
+nbformat
+streamlit
